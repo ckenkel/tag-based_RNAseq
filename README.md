@@ -25,3 +25,4 @@ If not already available on your HPC system, you will need to also install the f
 - cd-hit http://weizhongli-lab.org/cd-hit/
 - SHRiMP http://compbio.cs.toronto.edu/shrimp/ or bowtie2 http://bowtie-bio.sourceforge.net/bowtie2/index.shtml
 
+Example data (...test.fasq) and reference files (.fas and seq2iso.tab) are also included for the purposes of troubleshooting the walkthrough on your own HPC system. 
