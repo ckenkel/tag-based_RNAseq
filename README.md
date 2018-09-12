@@ -11,7 +11,7 @@ The method was described in Meyer, Aglyamova and Matz, Mol Ecol 2011 ( http://bi
 
 Lohman et al extensively benchmarked TagSeq against standard RNA-seq (NEBNext) and found that tag-seq quantifies transcript abndances more accurately, for about 10% of the cost: http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12529/abstract
 
-This project provides the up-to-date wet lab protocol (TagSeq_sample_prep_sep2018_ckedits.pdf), scripts and walkthoughs ( for initial sequence data processing (from reads to gene counts), including:
+This project provides the up-to-date wet lab protocol (TagSeq_sample_prep_sep2018_ckedits.pdf), scripts and walkthoughs (5_Quality...pdf and 6_Mapping...pdf) for initial sequence data processing (from reads to gene counts), including:
 - concatenating raw sequence files according to the sampling design;
 - adaptor trimming, quality filtering and removal of PCR duplicates;
 - mapping against reference transcriptome;
