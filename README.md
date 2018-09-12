@@ -17,6 +17,8 @@ This project provides the up-to-date wet lab protocol (TagSeq_sample_prep_sep201
 - mapping against reference transcriptome;
 - deriving gene counts.
 
+Note that job submission scripts will need to be modified to suit the scheduler in use on your HPC.
+
 If not already available on your HPC system, you will need to also install the following softwares:
 - fastx_toolkit http://hannonlab.cshl.edu/fastx_toolkit/
 - BBMap https://sourceforge.net/projects/bbmap/
