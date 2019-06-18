@@ -1,4 +1,4 @@
-### Problems with HiSeq 4000 have been solved. Please use protocol from December 2017 or later.
+### Note, while it is possible to sequence these libraries on the HiSeq 4000, yields are still low and not much improved over the 2500, so Carly recommends selecting your platform by price.
 
 Genome-wide gene expression profiling with tag-based RNA-seq (TagSeq) - version Kenkel Lab
 ------------------------------------------------------------
